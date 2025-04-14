@@ -1,0 +1,13 @@
+# == INTERCEPTED MESSAGE ==
+# Timestamp: 04:13:05
+# Source: UNKNOWN (Likely Threat Actor)
+
+r4nd0m84s3F1A6Zmxh
+Z3tpX2FNX3dyb25nX0ZsYUdfSV9hbV9uT3Rfc1VSZX0
+m2d03n7==<<<ERROR
+HEADER:::::ZmxhZ3tzVmcxMjMwOTg0NTY3X1VydnZ9===end|||checksum_OK
+
+junk_lol233___notAFlag!!==FLAGGZmxhZ3t3cm9uZ19kYXRhfQ==
+base64_failed??>ROT13_is_n0t_secure_BUT_still_valid==
+
+# WARNING: FILE SET TO AUTO-DELETE AFTER 10 MINUTES
